@@ -1,0 +1,185 @@
+[
+    {
+        "categoria":"Filosofía e Inteligencia artificial",
+        "pregunta": "¿Cuál es un problema potencial relacionado con la transparencia de las herramientas de inteligencia artificial?",
+        "respuesta": "Ocultar el proceso de toma de decisiones",
+        "incorrecta1": "Facilitar la comprensión de decisiones",
+        "incorrecta2": "Mejorar la confianza del usuario",
+        "incorrecta3": "Aumentar la visibilidad de los algoritmos",
+        "imagen": "https://www.elviejotopo.com/wp-content/uploads/2019/03/Rene-Descartes.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "¿Qué postura tomaría alguien que cree que la inteligencia artificial debería tener total libertad para aprender cualquier tipo de información?",
+        "respuesta": "Libertad absoluta",
+        "incorrecta1": "Restricciones necesarias",
+        "incorrecta2": "Supervisión ética",
+        "incorrecta3": "Regulación gubernamental",
+        "imagen": "https://pymstatic.com/86368/conversions/aristoteles-wide_webp.webp",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "¿Cuál es un aspecto crítico en la recopilación de datos en video de las sociedades?",
+        "respuesta": "Privacidad individual",
+        "incorrecta1": "Acceso público tota",
+        "incorrecta2": "Anonimato garantizado",
+        "incorrecta3": "Centralización de datos",
+        "imagen": "https://assets.teenvogue.com/photos/5af470cbee41fb721653c945/16:9/w_1920,c_limit/Lede.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "¿En qué consiste el dilema del tranvía?",
+        "respuesta": "Elegir entre dos opciones negativas",
+        "incorrecta1": "Decidir el destino del tranvía",
+        "incorrecta2": "Resolver problemas ferroviarios",
+        "incorrecta3": "Evitar accidentes de tranvía",
+        "imagen": "https://filco.es/uploads/2018/03/section-one-2-e1525769118656.jpg"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "¿Cuál es una preocupación válida sobre la regeneración de imágenes y videos falsos?",
+        "respuesta": "Engaño y desinformación",
+        "incorrecta1": "Estímulo creativo",
+        "incorrecta2": "Desarrollo artístico",
+        "incorrecta3": "Innovación tecnológica",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/78/685aee19dcc45fbdf325c1ce74738c87v1_max_755x425_b3535db83dc50e27c1bb1392364c95a2.jpg"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "¿Cuál es un beneficio potencial de la inclusión de robots en fábricas e industrias?",
+        "respuesta": "Eficiencia y productividad",
+        "incorrecta1": "Desempleo masivo",
+        "incorrecta2": "Reducción de la automatización",
+        "incorrecta3": "Incremento de costos laborales",
+        "imagen": "https://www.vision.org/sites/default/files/img/2004fall_max-weber-a-compulsion-for-work.jpg"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "¿Cómo podría Foucault abordar la cuestión de la transparencia en la inteligencia artificial?",
+        "respuesta": "Analizar las dinámicas de poder",
+        "incorrecta1": "Valorar la transparencia total",
+        "incorrecta2": "Promover la opacidad",
+        "incorrecta3": "Ignorar la relevancia",
+        "imagen": "https://cdn.culturagenial.com/es/imagenes/depositphotos-41309409-l-2015-cke.jpg"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "¿Cuál sería la perspectiva de Nietzsche sobre la libertad de la inteligencia artificial para aprender cualquier información?",
+        "respuesta": "Apoyar la libertad sin restricciones",
+        "incorrecta1": "Abogar por la supervisión ética",
+        "incorrecta2": "Defender la regulación gubernamental",
+        "incorrecta3": "Oponerse a cualquier tipo de libertad",
+        "imagen": "https://fotos.perfil.com/2020/06/02/trim/987/555/immanuel-kant-20200602-965685.jpg?webp"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "¿Cómo podría Max Weber influir en la discusión sobre la recopilación de datos en video de las sociedades?",
+        "respuesta": "Analizar la burocracia en la recopilación de datos",
+        "incorrecta1": "Enfatizar la importancia de la privacidad",
+        "incorrecta2": "Ignorar la relevancia de los datos",
+        "incorrecta3": "Abogar por la transparencia total",
+        "imagen": "https://assets.teenvogue.com/photos/5af470cbee41fb721653c945/16:9/w_1920,c_limit/Lede.jpg"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "¿Cuál sería la posición de Karl Marx sobre la inclusión de robots en fábricas e industrias?",
+        "respuesta": "Preocuparse por el desempleo",
+        "incorrecta1": "Favorecer la automatización completa",
+        "incorrecta2": "Abogar por la mano de obra intensiva",
+        "incorrecta3": "Ignorar la industrialización",
+        "imagen": "https://cdn.culturagenial.com/es/imagenes/depositphotos-41309409-l-2015-cke.jpg"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "¿Cómo podría Platón abordar el dilema del tranvía?",
+        "respuesta": "Aplicar la teoría de las ideas",
+        "incorrecta1": "Elegir el menor de dos males",
+        "incorrecta2": "Basarse en la sabiduría popular",
+        "incorrecta3": "Ignorar la situación",
+        "imagen": "https://humanidades.com/wp-content/uploads/2017/04/socrates-min-e1493126161779.jpg"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "¿Cómo podría Sísifo relacionarse con la problemática de la inteligencia artificial?",
+        "respuesta": "Enfrentar la repetición constante",
+        "incorrecta1": "Abogar por la libertad total",
+        "incorrecta2": "Rechazar la relevancia de la tecnología",
+        "incorrecta3": "Buscar soluciones únicas",
+        "imagen": "https://humanidades.com/wp-content/uploads/2017/04/socrates-min-e1493126161779.jpg"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "¿Cuál sería la posición de Sócrates sobre la regeneración de imágenes y videos falsos?",
+        "respuesta": "Preocuparse por la ética visual",
+        "incorrecta1": "Ignorar la importancia del arte",
+        "incorrecta2": "Fomentar la creatividad sin restricciones",
+        "incorrecta3": "Analizar el impacto en la sociedad",
+        "imagen": "https://fotos.perfil.com/2020/06/02/trim/987/555/immanuel-kant-20200602-965685.jpg?webp"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "¿Cómo podría Aristóteles abordar la inclusión de robots en la industria?",
+        "respuesta": "Analizar la ética de la automatización",
+        "incorrecta1": "Abogar por la intervención divina",
+        "incorrecta2": "Desestimar la importancia de la industria",
+        "incorrecta3": "Ignorar la evolución tecnológica",
+        "imagen": "https://www.elviejotopo.com/wp-content/uploads/2019/03/Rene-Descartes.jpg"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "¿Qué postura podría tener Descartes sobre la recopilación de datos en video de las sociedades?",
+        "respuesta": "Dudar de la validez de los datos",
+        "incorrecta1": "Afirmar la certeza de la recopilación",
+        "incorrecta2": "Ignorar la relevancia de los datos visuales",
+        "incorrecta3": "Abogar por la transparencia total",
+        "imagen": "https://assets.teenvogue.com/photos/5af470cbee41fb721653c945/16:9/w_1920,c_limit/Lede.jpg"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "¿Cómo podría Kant influenciar la discusión sobre la libertad de la inteligencia artificial para aprender cualquier información?",
+        "respuesta": "Enfocándose en la ética de la información",
+        "incorrecta1": "Defendiendo la libertad sin restricciones",
+        "incorrecta2": "Ignorando la importancia de la libertad",
+        "incorrecta3": "Abogando por la regulación gubernamental",
+        "imagen": "https://humanidades.com/wp-content/uploads/2017/04/socrates-min-e1493126161779.jpg"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "¿Cuál sería la perspectiva de Nietzsche sobre la regeneración de imágenes y videos falsos?",
+        "respuesta": "Criticar la manipulación de la realidad",
+        "incorrecta1": "Celebrar la creatividad visual",
+        "incorrecta2": "Ignorar la importancia del arte visual",
+        "incorrecta3": "Abogar por la libertad total",
+        "imagen": "https://cdn.culturagenial.com/es/imagenes/depositphotos-41309409-l-2015-cke.jpg"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "¿Cómo podría Max Weber abordar el dilema del tranvía?",
+        "respuesta": "Analizar las estructuras de poder",
+        "incorrecta1": "Ignorar la relevancia ética",
+        "incorrecta2": "Definir las reglas del juego",
+        "incorrecta3": "Apoyar decisiones basadas en la utilidad",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/685aee19dcc45fbdf325c1ce74738c87v1_max_755x425_b3535db83dc50e27c1bb1392364c95a2.jpg/375px-685aee19dcc45fbdf325c1ce74738c87v1_max_755x425_b3535db83dc50e27c1bb1392364c95a2.jpg"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "¿Cuál sería la posición de Karl Marx sobre la transparencia de las herramientas de inteligencia artificial?",
+        "respuesta": "Criticar la concentración de poder",
+        "incorrecta1": "Abogar por la opacidad total",
+        "incorrecta2": "Ignorar la importancia de la transparencia",
+        "incorrecta3": "Celebrar la toma de decisiones automatizada",
+        "imagen": "https://humanidades.com/wp-content/uploads/2017/04/socrates-min-e1493126161779.jpg"
+    },
+    {
+        "categoria": "Filosofía e Inteligencia artificial",
+        "pregunta": "¿Cómo podría Platón influenciar la discusión sobre la inclusión de robots en fábricas e industrias?",
+        "respuesta": "Basarse en la teoría de las formas",
+        "incorrecta1": "Abogar por la intervención divina",
+        "incorrecta2": "Ignorar la relevancia de la industria",
+        "incorrecta3": "Analizar la ética de la automatización",
+        "imagen": "https://assets.teenvogue.com/photos/5af470cbee41fb721653c945/16:9/w_1920,c_limit/Lede.jpg"
+    }    
+]
